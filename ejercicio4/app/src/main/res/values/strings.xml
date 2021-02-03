@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ejercicio4</string>
+    <string name="grabar_audio">Grabar Audio</string>
+    <string name="reproducir_audio">Reproducir Audio</string>
+</resources>
